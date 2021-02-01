@@ -37,11 +37,12 @@ halloweenSongs = [
 # create Christmas and add songs
 def createPlaylist(which):
 
+    # credentials removed for public use
     #initialize Spotify credentials
     token = spotipy.util.prompt_for_user_token(username="blakemode777", 
     scope="playlist-modify-private",
-    client_id="479e0dc981994aa1a4a4aa3acd25bdb7",
-    client_secret="a5e15563e82f4af0898e03764ba821e9",
+    client_id="",
+    client_secret="",
     redirect_uri="https://accounts.spotify.com/authorize",
     show_dialog=False
     )
