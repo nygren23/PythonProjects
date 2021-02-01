@@ -1,0 +1,1 @@
+C:\Users\blake\AppData\Local\Programs\Python\Python38-32\python.exe C:\Users\blake\OneDrive\Desktop\Code_Building\PythonProjects\pc.py
