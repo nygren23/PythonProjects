@@ -14,7 +14,8 @@ import smartsheet.sheets
 
 # initialize smartsheet client
 try:
-    smartsheet_client = smartsheet.Smartsheet('df2s5o5s2max9nkfg2jcou502l')
+    # removed credentials here
+    smartsheet_client = smartsheet.Smartsheet(#########)
 
     # download sheet to my Desktop by sheet id
     filePath = os.path.dirname(sys.executable)
